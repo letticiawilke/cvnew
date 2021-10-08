@@ -22,3 +22,15 @@ h3{
   border: 1px solid green;
   border-radius: 50%;
 }
+.everything {
+  border: 1px solid purple;
+  display: flex;
+}
+.main {
+  border: 2px solid blue;
+  flex-grow: 1;
+}
+.moreinfo {
+  border: 1px solid grey;
+  width: 150px;
+}
